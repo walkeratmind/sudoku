@@ -44,6 +44,8 @@ Give the inputs for the sudoku as:
 grid = '4.....8.5.3..........7......2.....6.....8.4......1.......6.3.7.5..2.....1.4......'
 ```
 
+### Demo [![Run on Repl.it](https://repl.it/badge/github/walkeratmind/sudoku)](https://repl.it/github/walkeratmind/sudoku)
+
 #### References
 
 This project is  based on Peter Norvig's  post.
